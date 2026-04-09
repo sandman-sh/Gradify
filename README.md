@@ -2,6 +2,10 @@
 
 Gradify is a single-file interactive web app for exploring colors in 3D, generating palettes, crafting gradients, previewing UI styles, and exporting design tokens for real projects.
 
+## Description
+
+Gradify is an interactive 3D color palette and gradient studio built with HTML, CSS, JavaScript, Three.js, and Chroma.js. It helps designers and developers discover colors, generate palettes, create gradients, preview UI combinations, and export production-friendly color values from one clean interface.
+
 [![Gradify Demo Screenshot](./demo/2.jpg)](./demo/1.mp4)
 
 Click the screenshot above to open the demo video, or use this direct link: [Watch Demo Video](./demo/1.mp4)
@@ -44,12 +48,12 @@ Gradify combines a visual landing experience with a studio-style workspace for c
 
 ```text
 gradify/
-├── demo/
-│   ├── 1.mp4
-│   └── 2.jpg
-├── index.html
-├── README.md
-└── .gitignore
+|-- demo/
+|   |-- 1.mp4
+|   `-- 2.jpg
+|-- index.html
+|-- README.md
+`-- .gitignore
 ```
 
 ## Getting Started
